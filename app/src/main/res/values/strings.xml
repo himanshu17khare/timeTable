@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    <string-array name="select_your_course">Select your course
+        <item>Select your hons course</item>
+        <item>Computer Science</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Mathematics</item>
+        <item>Botany</item>
+    </string-array>
+    <string-array name="select_your_sem">Select your semester
+        <item>Select your semester</item>
+        <item>Semester 1st</item>
+        <item>Semester 2nd</item>
+        <item>Semester 3rd</item>
+        <item>Semester 4th</item>
+        <item>Semester 5th</item>
+        <item>Semester 6th</item>
+        <item>Semester 7th</item>
+        <item>Semester 8th</item>
+    </string-array>
+</resources>
